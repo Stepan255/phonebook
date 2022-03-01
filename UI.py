@@ -1,7 +1,3 @@
-
-from tabnanny import check
-
-
 def get_info():
     text_vvod = 'Input action import or export: '
     info = input(text_vvod)
@@ -21,7 +17,6 @@ def chek_input(input_data, checking,invalid_text,for_input_text):
 def get_adress():
     return input('Enter adress: ')
     
-
 
 def success():
     return print('Import/ export complete successfully')
