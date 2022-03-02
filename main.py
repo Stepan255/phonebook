@@ -1,3 +1,3 @@
-import generator as gen
+import constructor as c
 
-gen.create_phone_list(10, '\n')
+c.choice_import_or_export()
