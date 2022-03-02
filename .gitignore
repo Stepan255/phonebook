@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+generation_data.csv
+generation_data.txt
+export.csv
+export.txt
+test.csv
+gen.py
 *.pyc
 
 # User-specific files
